@@ -20,4 +20,4 @@ Me chamo Isaac, tenho 20 anos, resido em São Paulo-SP. Atualmente, sou graduand
  ###  Contatos:
 
  <a href = "mailto:isaacsilva15663@gmail.com"><img  src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/isaac-pereira-77648b233/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/isaac-pereira-77648b233" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
