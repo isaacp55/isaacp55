@@ -5,9 +5,12 @@
 Me chamo Isaac, tenho 20 anos, resido em São Paulo-SP. Atualmente, sou graduando em Análise e Desenvolvimento de Sistemas. Nesse momento, estou adquirindo sólidos conhecimentos em Java, Spring, MySQL, com o objetivo de me tornar um Desenvolvedor Java Jr. 
   ###  Linguagens e Tecnologias
 <div style="display: inline_block">
+  <img alt="Isaac-SB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />  
+  <img alt="Isaac-SB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />  
+  <img alt="Isaac-SB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img alt="Isaac-SB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
   <img  alt="Isaac-SB" height="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />        
-  <img  alt="Isaac-SB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />               
-  <img alt="Isaac-SB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img  alt="Isaac-SB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />              
           
 </div> 
 
