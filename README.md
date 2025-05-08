@@ -10,7 +10,7 @@ Me chamo Isaac, tenho 20 anos, resido em São Paulo-SP. Atualmente, sou graduand
   <img alt="Isaac-SB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   <img alt="Isaac-SB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
   <img  alt="Isaac-SB" height="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />        
-  <img  alt="Isaac-SB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />              
+  <img  alt="Isaac-SB" height="27" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />              
           
 </div> 
 
